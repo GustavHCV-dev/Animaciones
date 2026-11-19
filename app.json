@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "AnimacionesReanimated",
+    "slug": "animaciones-reanimated",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.zack.animaciones", "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#0F2A52" } },
+    "ios": { "bundleIdentifier": "com.zack.animaciones" },
+    "plugins": ["expo-status-bar"]
+  }
+}
